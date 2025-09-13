@@ -1,6 +1,8 @@
-## Purpose
+## The Five
 
-This repository contains an ever-evolving but clearly versioned essence of rules for how to live a good life. It is as consistent as possible with all religious and philosophical belief systems, targeting a very robust and universal system of rules as a set.
+## Why?
+
+This repository contains an ever-evolving but clearly versioned essence of "rules" for how to live a good life as a human being. It aims to be as consistent as possible with all religious and philosophical belief systems, targeting a very robust and universal system of rules when intertwined as a set.
 
 ## Text Linting (i.e. document rules)
 
